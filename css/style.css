@@ -95,10 +95,14 @@ footer {
 }
 
 .card img {
-    width: 50px;
+    width: 100%;
     height: auto;
     border-radius: 8px;
     margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #ff9800;
 }
 
 @media (max-width: 260px) {
